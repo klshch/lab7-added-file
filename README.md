@@ -1,1 +1,9 @@
-# lab7-added-file-
+<img width="1508" alt="Знімок екрана 2023-11-27 о 20 44 49" src="https://github.com/klshch/lab7-added-file-/assets/147326209/c2036a3e-d3cb-4190-baa1-6ff60bd34f8f">
+<img width="1508" alt="Знімок екрана 2023-11-27 о 20 42 24" src="https://github.com/klshch/lab7-added-file-/assets/147326209/6cce2208-68e5-4a31-a6b8-8cdfd0b0bf1d">
+<img width="1508" alt="Знімок екрана 2023-11-27 о 20 40 37" src="https://github.com/klshch/lab7-added-file-/assets/147326209/9d295533-4eb1-46ce-8de5-c265d6e8d355">
+<img width="1508" alt="Знімок екрана 2023-11-27 о 20 32 59" src="https://github.com/klshch/lab7-added-file-/assets/147326209/bac95400-ba9d-4dff-a133-eba5f0c75314">
+<img width="1508" alt="Знімок екрана 2023-11-27 о 20 32 51" src="https://github.com/klshch/lab7-added-file-/assets/147326209/785a76f8-7ebf-4316-a5d8-d7cc48748d72">
+<img width="1105" alt="Знімок екрана 2023-11-27 о 20 26 15" src="https://github.com/klshch/lab7-added-file-/assets/147326209/1ea02570-21e6-429f-ae0d-909c1a9107f9">
+<img width="1508" alt="Знімок екрана 2023-11-27 о 20 25 43" src="https://github.com/klshch/lab7-added-file-/assets/147326209/d335339b-989d-4635-9946-c04101a17c8a">
+<img width="1508" alt="Знімок екрана 2023-11-27 о 20 25 11" src="https://github.com/klshch/lab7-added-file-/assets/147326209/85d8db82-2631-4e24-8223-6d29f9701e61">
+<img width="1508" alt="Знімок екрана 2023-11-27 о 20 08 58" src="https://github.com/klshch/lab7-added-file-/assets/147326209/c748fe05-41b1-46e6-8c37-e6838b198739">
